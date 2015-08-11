@@ -1,0 +1,21 @@
+{
+  "name": "jc010-basic-mean",
+  "version": "1.0.0",
+  "description": "basic mean",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.9.0",
+    "express": "4.9.5",
+    "mongoose": "3.8.18"
+  }
+}
