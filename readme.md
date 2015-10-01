@@ -2,8 +2,6 @@
 Basic MEAN Stack Project: Simple Twitter
 ===
 
-[Link to live project](http://salty-lake-3481.herokuapp.com/)
-
 0. Goals
 ---
 * Single-page app that displays tweets
